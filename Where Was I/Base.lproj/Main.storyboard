@@ -23,7 +23,7 @@
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ylx-YL-aiB">
                                 <items>
                                     <navigationItem title="Where Was I?" id="Cg5-iC-9XG">
-                                        <barButtonItem key="rightBarButtonItem" style="plain" systemItem="add" id="DI4-TM-yjO">
+                                        <barButtonItem key="rightBarButtonItem" style="done" systemItem="add" id="DI4-TM-yjO">
                                             <connections>
                                                 <action selector="saveButtonClicked:" destination="BYZ-38-t0r" id="4de-mG-Wat"/>
                                             </connections>
